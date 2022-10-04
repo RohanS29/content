@@ -82,7 +82,7 @@ The `background-position` property is specified as one or more `<position>` valu
 
     **4-value syntax:** The first and third values are keyword value defining X and Y. The second and fourth values are offsets for the preceding X and Y keyword values:
 
-    - The first value and third values one of the keyword values `top`, `left`, `bottom`, `right`. If `left` or `right` are given here, then this defines X. If `top` or `bottom` are given, then this defines Y and the other keyword value defines X.
+    - The first and third values are one of the keyword values `top`, `left`, `bottom`, `right`. If `left` or `right` are given here, then this defines X. If `top` or `bottom` are given, then this defines Y and the other keyword value defines X.
     - The second and fourth values are {{cssxref("&lt;length&gt;")}} or {{cssxref("&lt;percentage&gt;")}} values. The second value is the offset for the first keyword. The fourth value is the offset for the second keyword.
 
 ### Regarding Percentages
